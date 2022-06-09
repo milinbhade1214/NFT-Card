@@ -1,0 +1,78 @@
+body{
+  background-color: hsl(217, 54%, 11%);
+  font-size: 18px;
+  font-family: 'Outfit', sans-serif;
+}
+.last{
+  padding-left: 15px;
+  color: hsl(215, 51%, 70%);
+}
+.clock{
+  padding-left: 30px;
+}
+.main-head{
+  font-weight: 600;
+  color: color:hsl(0, 0%, 100%);
+}
+.mid1{
+  color:hsl(215, 51%, 70%);
+  font-size: 16;
+  margin-bottom: 0;
+}
+.mid2{
+  color:hsl(215, 51%, 70%);
+  font-weight: 300;
+  margin-top: 0;
+}
+.dy{
+  border-left: 20px;
+  color:hsl(215, 51%, 70%);
+  font-size: 15px;
+}
+.days{
+  margin-left: 30px;
+}
+.price{
+  color: hsl(178, 100%, 50%);
+  align-items: left;
+  margin-right: 70px;
+  margin-left: 7px;
+  font-size: 15px;
+}
+
+.ether{
+  width: 300px;
+  border-radius: 5%;
+}
+.img-ether{
+  width: 10px;
+}
+.avatar{
+  width: 30px;
+}
+
+.container{
+  width: fit-content;
+  margin: auto;
+  padding: 30px;
+  background-color: hsl(220, 67%, 12%);
+  border-radius: 5%;
+  padding-top: 10px;
+  padding-bottom: 10px;
+
+}
+
+.container-in{
+  padding: 15px;
+  background-color: hsl(220, 60%, 11%) ;
+  border-radius: 5%;
+  padding-bottom: 35px;
+  padding-top: 0px;
+
+}
+
+.inner{
+  padding:15px;
+  background-color:  hsl(216, 50%, 16%);
+  border-radius: 5%;
+}
